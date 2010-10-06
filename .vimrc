@@ -22,10 +22,6 @@ let g:fuzzy_matching_limit=60
 set backupdir=$HOME/.vim/backup
 set directory=$HOME/.vim/backup
  
-" Key Mappings
-map <C-T> :FuzzyFinderTextMate<cr>
-map <F13> :NERDTree<cr>
- 
 imap <C-L> <space>=><space>
 map + <C-W>+
 map - <C-W>-
