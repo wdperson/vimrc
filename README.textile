@@ -1,4 +1,5 @@
-<h1>My vimrc file.</h1
+<h4>My Vim Configuration</h4>
 
 Going to add and edit the file with what I find and want for my configuration for vim.
 
+Files are symlinked to home directory from local copy of repo.
