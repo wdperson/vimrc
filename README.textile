@@ -1,0 +1,4 @@
+<h1>My vimrc file.</h1
+
+Going to add and edit the file with what I find and want for my configuration for vim.
+
